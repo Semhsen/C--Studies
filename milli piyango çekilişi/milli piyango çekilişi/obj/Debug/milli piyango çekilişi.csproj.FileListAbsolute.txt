@@ -1,0 +1,18 @@
+C:\Users\Semih\Desktop\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.exe.config
+C:\Users\Semih\Desktop\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.exe
+C:\Users\Semih\Desktop\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.pdb
+C:\Users\Semih\Desktop\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.exe
+C:\Users\Semih\Desktop\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.pdb
+C:\Users\Semih\Desktop\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.exe.config
+C:\Users\Semih\Desktop\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.exe
+C:\Users\Semih\Desktop\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.pdb
+C:\Users\Semih\Desktop\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.exe
+C:\Users\Semih\Desktop\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.pdb
+C:\Users\Semih\Desktop\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.csprojResolveAssemblyReference.cache
+C:\Users\Semih\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.exe.config
+C:\Users\Semih\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.exe
+C:\Users\Semih\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\bin\Debug\milli piyango çekilişi.pdb
+C:\Users\Semih\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.csprojAssemblyReference.cache
+C:\Users\Semih\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.exe
+C:\Users\Semih\Computer Engineer\C#\ÖRNEKLER\milli piyango çekilişi\milli piyango çekilişi\obj\Debug\milli piyango çekilişi.pdb
